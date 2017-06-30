@@ -1,2 +1,2 @@
 # Course_BasicGameProgramming
-Basics Of Game Programming. How to develop games using C
+Basics of Game Programming. How to develop games using C
