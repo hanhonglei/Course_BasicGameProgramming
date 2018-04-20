@@ -7,9 +7,15 @@ Here is the [textbook](http://product.dangdang.com/23951820.html)
 
 ## Some helpful online resources
 1. [Online compiler/interpreter, and a simple collaboration tool](http://codepad.org/)
+2. [Online compiler and debugger for c/c++](https://www.onlinegdb.com/online_c_compiler)
 2. [theForger's Win32 API Tutorial, with Chinese translation](http://winprog.org/tutorial/)
 3. [Lessons on Win32 programming](http://www.functionx.com/win32/)
 4. [EasyX Library for C++](http://www.easyx.cn/)
+
+## A couple of online C tests
+1. [C Programming Online Test](http://www.tutorialspoint.com/cprogramming/cprogramming_online_test.htm)
+2. [Online C Programming Test](http://www.indiabix.com/online-test/c-programming-test/)
+3. [C Online Test](http://pskills.org/c.jsp)
 
 More information, please visit my personal website [here](https://hanhonglei.github.io/).
 
